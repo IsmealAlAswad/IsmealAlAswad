@@ -2,10 +2,12 @@
 
 <!--
 **IsmealAlAswad/IsmealAlAswad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 . 
 
 
->  **[Ismeal Al Aswad](https://github.com/nancyalaswad90/Each-Year-Study-Schedule/blob/main/README.md) is, [Master in Accounting](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/Universities%20specializing%20in%20accounting.md) with nearly 12 years experience working in Bank on operational & extracting data, And now she is working in AI, ML, DL, DS fields**
+>  **[Ismeal Al Aswad](https://github.com/nancyalaswad90/Each-Year-Study-Schedule/blob/main/README.md) is, [Master in Accounting](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/Universities%20specializing%20in%20accounting.md) with nearly 12 years experience working in Bank on operational & extracting data, And now he is working in AI, ML, DL, DS fields**
 > 
 
 .

@@ -2,8 +2,7 @@
 
 ### Hi there 👋
 
-<!--
-**IsmealAlAswad/IsmealAlAswad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**IsmealAlAswad/IsmealAlAswad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 > ## This is my new profile and I make progress with it each day 

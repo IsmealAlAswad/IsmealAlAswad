@@ -26,6 +26,9 @@
 
 > ### Here are some ideas to get you started:
 
+==============================================
+
+
 - 🔭I'm currently working as **accountant in Government**
 - 🌱 I'm currently learning **Cyber Security** as a `second academic` path
 - 👯 I’m looking to collaborate on working in **Finance** or **Computer Science paths**

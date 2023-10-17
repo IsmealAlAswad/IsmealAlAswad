@@ -30,8 +30,8 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: [Kaggle](https://www.kaggle.com/ismealalaswad) and [linkedin](https://www.linkedin.com/in/ismeal-ahmad-al-aswad-314037294/)
 - 😄 Pronouns: ...
-- ⚡ Fun fact: **[Cyber Security](https://edugate.aau.edu.jo/faces/ui/pages/student/index.xhtml)**
--->
+- ⚡ Fun fact:  **[Cyber Security](https://edugate.aau.edu.jo/faces/ui/pages/student/index.xhtml)**
+
 
 
   .

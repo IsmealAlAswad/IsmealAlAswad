@@ -8,7 +8,6 @@
 
 .
 
-
 > ## This is my new profile and I make progress with it each day
 
 . 

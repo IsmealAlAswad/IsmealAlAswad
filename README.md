@@ -1,7 +1,6 @@
 .
 
 ### Hi there 👋
-
 .
 
 **[Ismeal Al Aswad]() is, [Master in Accounting](https://github.com/IsmealAlAswad/Accounting-Certifications) with more than 18 years experience working in government  , And now he is working in AI, ML, DL, DS fields**
